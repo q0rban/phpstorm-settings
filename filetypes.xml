@@ -5,6 +5,7 @@
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
+      <mapping ext="hbs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
