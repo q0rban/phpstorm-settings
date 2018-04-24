@@ -139,7 +139,7 @@
     </context>
   </template>
   <template name="callout" value="&gt; #### $TYPE$::$TITLE$&#10;&gt; $BODY$" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="enum(Info,Note,Tag,Comment,Hint,Success,Warning,Caution,Danger,Quote)" defaultValue="Info" alwaysStopAt="true" />
+    <variable name="TYPE" expression="enum(&quot;Info&quot;,&quot;Note&quot;,&quot;Tag&quot;,&quot;Comment&quot;,&quot;Hint&quot;,&quot;Success&quot;,&quot;Warning&quot;,&quot;Caution&quot;,&quot;Danger&quot;,&quot;Quote&quot;)" defaultValue="Info" alwaysStopAt="true" />
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
