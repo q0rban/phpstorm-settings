@@ -138,4 +138,27 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="callout" value="&gt; #### $TYPE$::$TITLE$&#10;&gt; $BODY$" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="enum(Info,Note,Tag,Comment,Hint,Success,Warning,Caution,Danger,Quote)" defaultValue="Info" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
