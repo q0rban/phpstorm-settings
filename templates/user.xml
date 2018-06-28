@@ -161,4 +161,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="echoerr" value="# Helper function to output a string to stderr and exit.&#10;echoerr() {&#10;  echo &quot;$@&quot; 1&gt;&amp;2&#10;  exit 23&#10;}" description="Print an error to stderr and exit." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Bash" value="true" />
+    </context>
+  </template>
 </templateSet>
