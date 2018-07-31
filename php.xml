@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
-    <option name="phpCodeSnifferPath" value="/usr/local/bin/phpcs" />
-    <option name="standards" value="Drupal;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" />
+    <phpcs_settings_migrated />
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="/usr/local/bin/phpcs" />
+    </phpcs_settings>
   </component>
 </application>
-
