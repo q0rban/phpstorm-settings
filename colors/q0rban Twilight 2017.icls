@@ -4,7 +4,7 @@
     <property name="created">2017-04-10T13:47:40</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-02-05T08:15:11</property>
+    <property name="modified">2018-05-01T09:16:21</property>
     <property name="originalScheme">Twilight copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.12" />
@@ -12,6 +12,7 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="1.12" />
   <colors>
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="1b1b1b" />
@@ -967,6 +968,16 @@
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="9b703f" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
