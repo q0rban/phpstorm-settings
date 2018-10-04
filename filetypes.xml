@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="info" type="Ini" />
       <mapping ext="cnf" type="Ini" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
@@ -12,7 +13,6 @@
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
