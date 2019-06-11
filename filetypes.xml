@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern=".env.ci" type="PLAIN_TEXT" />
+      <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
