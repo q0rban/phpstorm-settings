@@ -13,6 +13,7 @@
       <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
+      <mapping pattern="boot" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="manifest" type="PLAIN_TEXT" />
