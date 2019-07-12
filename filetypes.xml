@@ -16,6 +16,7 @@
       <mapping pattern="boot" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
     </extensionMap>
