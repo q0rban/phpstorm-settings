@@ -140,7 +140,6 @@
   </template>
   <template name="wid" value="widows:$VAR0$;" description="widows:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="fef" value="font-effect:$VAR0$;" description="font-effect:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
