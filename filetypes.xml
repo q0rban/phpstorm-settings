@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="cnf" type="Ini" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="cnf" type="Ini" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
