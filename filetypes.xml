@@ -12,6 +12,7 @@
       <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
+      <mapping pattern="standalone" type="PLAIN_TEXT" />
       <mapping pattern="boot" type="PLAIN_TEXT" />
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
