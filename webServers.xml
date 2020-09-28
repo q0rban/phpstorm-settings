@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f4d72e36-052d-454c-a7be-6bfb4de7d5d6" name="justjoesmusic.com" url="http://ftp.justjoesmusic.com">
+        <fileTransfer host="ftp.justjoesmusic.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
