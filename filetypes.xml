@@ -5,11 +5,10 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern=".env-www" type="PLAIN_TEXT" />
       <mapping pattern="standalone" type="PLAIN_TEXT" />
@@ -17,8 +16,9 @@
       <mapping pattern="ssh-config" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
+      <mapping pattern="manifest" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
     </extensionMap>
