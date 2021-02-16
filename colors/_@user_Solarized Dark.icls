@@ -3,7 +3,7 @@
     <property name="created">2020-02-05T10:38:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-06T08:42:32</property>
+    <property name="modified">2021-02-16T08:13:50</property>
     <property name="originalScheme">Solarized Dark</property>
   </metaInfo>
   <colors>
@@ -73,6 +73,9 @@
         <option name="EFFECT_COLOR" value="dc322f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value />
     </option>
     <option name="BASH.HERE_DOC_END">
       <value>
