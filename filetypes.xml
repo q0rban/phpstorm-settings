@@ -20,6 +20,7 @@
       <mapping pattern="manifest" type="PLAIN_TEXT" />
       <mapping pattern=".env.vagrant" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="awk" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
